@@ -9,7 +9,7 @@ programa {
       escreva("Digite um numero ", i, ": ")
       leia(num)
 
-      se(i == 1 {
+      se(i == 1 ){
         maior = num
       }
 
