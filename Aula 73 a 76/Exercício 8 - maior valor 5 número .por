@@ -3,11 +3,15 @@ programa {
     inteiro i 
     real num, maior
 
-    maior = 1
+    maior = 0
 
     para(i = 1; i <= 5; i++){
       escreva("Digite um numero ", i, ": ")
       leia(num)
+
+      se(i == 1 {
+        maior = num
+      }
 
       se(num > maior){
         maior = num
