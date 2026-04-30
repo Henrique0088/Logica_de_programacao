@@ -5,7 +5,7 @@ programa {
 
     tentativas = 1
 
-    enquanto (tentativas <= 1){
+    enquanto (tentativas <= 3){
       escreva("Digite a senha: ")
       leia(senha)
 
