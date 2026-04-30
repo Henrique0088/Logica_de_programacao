@@ -13,6 +13,7 @@ programa {
         escreva("Acesso liberado!\n")
       }
          tentativas = tentativas + 1
+         pare
     }
 
     escreva("Fim.\n")
