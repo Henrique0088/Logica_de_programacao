@@ -2,7 +2,7 @@ programa {
   funcao inicio() {
     inteiro numero, qtd
 
-    qtd = 0
+    qtd = -1
     numero = 1
 
     enquanto(numero != 0){
