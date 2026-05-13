@@ -1,6 +1,6 @@
 programa {
   funcao  real calculadorMedia(real nota1, real nota2) {
-    real media = nota1 + nota2 /2
+    real media = (nota1 + nota2) /2
 
     retorne media
     
